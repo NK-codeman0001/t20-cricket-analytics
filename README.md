@@ -16,7 +16,7 @@ The objective is to:
 - Jupyter Notebook
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboards/screenshots/Home - Power hitters.png)
+![Dashboard](dashboards/screenshots/home_power_hitters.png)
 
 ## 🌐 Live Dashboard
 (Add your Power BI link here)
