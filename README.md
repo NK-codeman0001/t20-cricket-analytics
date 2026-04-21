@@ -20,8 +20,6 @@ The objective is to:
 ![Dashboard](dashboards/screenshots/S2_Anchors.png)
 ![Dashboard](dashboards/screenshots/Final_11.png)
 
-## 🌐 Live Dashboard
-(Add your Power BI link here)
 
 ## 📁 Project Structure
 - `data/` → Raw & processed datasets  
