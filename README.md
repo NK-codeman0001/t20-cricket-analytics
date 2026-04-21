@@ -17,6 +17,8 @@ The objective is to:
 
 ## 📊 Dashboard Preview
 ![Dashboard](dashboards/screenshots/home_power_hitters.png)
+![Dashboard](dashboards/screenshots/S2_Anchors.png)
+![Dashboard](dashboards/screenshots/Final_11.png)
 
 ## 🌐 Live Dashboard
 (Add your Power BI link here)
